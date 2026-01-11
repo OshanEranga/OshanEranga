@@ -49,15 +49,4 @@ I am a student developer from **Sri Lanka** on a mission to master data science 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
----
 
-### 🌐 Let's Be Friends!
-<p align="center">
-<a href="https://discord.gg/your-invite-link"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100091855083366"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="https://youtube.com/c/AutoCordingHub"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OshanEranga&color=ff00ff&style=flat-square&label=PROFILE+VIEWS" />
-</div>
