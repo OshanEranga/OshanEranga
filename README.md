@@ -40,14 +40,7 @@ I am a student developer from **Sri Lanka** on a mission to master data science 
 **Web Design (UI/UX)**
 ![Web Design](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
 
----
-
-### 🌌 Snake Animation (My Contribution History)
-*A colorful snake that eats my contribution pixels!*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OshanEranga/OshanEranga/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+>
 
 ---
 
