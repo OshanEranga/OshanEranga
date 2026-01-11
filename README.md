@@ -26,24 +26,27 @@ I am a student developer from **Sri Lanka** on a mission to master data science 
 
 ---
 
-### 📊 GitHub Analysis
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OshanEranga&theme=radical&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshanEranga&theme=radical&layout=compact&hide_border=true" />
-</div>
+### 📊 GitHub Analysis (Modern Alternatives)
 
-#### 📈 Contribution Graph
+#### 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OshanEranga&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
----
-
-### 🏆 Fixed Trophies & Achievements
+#### 🛠️ Language & Skills Summary
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OshanEranga&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OshanEranga&theme=radical" />
 </div>
+
+---
+
+### 🏆 GitHub Official Achievements
+*Since third-party trophies are often down, showing your official GitHub badges is the most modern way to flex!*
+
+<div align="left">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/docs/img/SSS.png" width="40" height="40" alt="Achievement" />
+  </div>
 
 ---
 
