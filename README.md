@@ -116,7 +116,7 @@ Connect with me professionally on LinkedIn
 <br>
 
 <a href="https://linkedin.com/in/oshaneranga">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="assets/linkedin.png" width="70" alt="LinkedIn"/>
 </a>
 
 <br><br>
