@@ -10,13 +10,14 @@
 
 # 👋 Hi, I'm Oshan Eranga
 
-🎓 **Electronic & Telecommunication Engineering Undergraduate** at the **University of Moratuwa, Sri Lanka**.
+🎓 **Electronic & Telecommunication Engineering Undergraduate**  
+University of Moratuwa, Sri Lanka 🇱🇰
 
-I'm passionate about designing intelligent systems that integrate **hardware and software**. My interests span **Artificial Intelligence**, **Embedded Systems**, **FPGA Design**, **IoT**, **PCB Design**, and **Computer Vision**.
+I'm passionate about designing intelligent systems that combine **electronics**, **embedded software**, and **artificial intelligence** to solve real-world engineering problems.
 
 ---
 
-## 🚀 Interests
+## 🚀 Areas of Interest
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -30,15 +31,19 @@ I'm passionate about designing intelligent systems that integrate **hardware and
 
 ---
 
-## 🛠 Languages & Technologies
+# 💻 Programming Languages
 
 <div align="center">
 
-### Programming Languages
-
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab&perline=8"/>
 
-### Frameworks & Tools
+</div>
+
+---
+
+# 🛠 Frameworks & Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,angular,firebase,git,github,vscode,postman&perline=7"/>
 
@@ -46,78 +51,71 @@ I'm passionate about designing intelligent systems that integrate **hardware and
 
 ---
 
-## ⚙️ Engineering Tools
+# ⚙️ Engineering Tools
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Verilog-FPGA-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/SOLIDWORKS-CC0000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/ModelSim-0088CC?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🌱 Currently Learning
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OshanEranga&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshanEranga&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=OshanEranga&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Deep Learning
+- Computer Vision
+- TensorFlow
+- PyTorch
+- FPGA Design
+- Embedded AI
+- High-Speed Digital Design
 
 ---
 
-## 🏆 GitHub Achievements
+# 📌 Featured Repositories
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=OshanEranga&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
+⭐ Check out my pinned repositories below to explore my latest engineering and AI projects.
 
 ---
 
-## 📈 Contribution Summary
+# 🌍 Connect with Me
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OshanEranga&theme=tokyonight)
-
-</div>
-
----
-
-## 🌍 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/OshanEranga" target="_blank">
+<a href="https://github.com/OshanEranga">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/oshaneranga" target="_blank">
+<a href="https://linkedin.com/in/oshaneranga">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:oshanerangalearn@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=OshanEranga&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -127,6 +125,6 @@ I'm passionate about designing intelligent systems that integrate **hardware and
 
 ### 💡 *Engineering • Embedded Systems • Artificial Intelligence*
 
-*"Building intelligent systems that bridge hardware and software."*
+**"Building intelligent systems that bridge hardware and software."**
 
 </div>
