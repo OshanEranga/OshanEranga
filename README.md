@@ -11,7 +11,7 @@
 # 👋 Hi, I'm Oshan Eranga
 
 🎓 **Electronic & Telecommunication Engineering Undergraduate**  
-📍 University of Moratuwa, Sri Lanka
+📍 University of Moratuwa, Sri Lanka 🇱🇰
 
 I'm passionate about designing intelligent systems that combine **electronics**, **embedded software**, and **artificial intelligence** to solve real-world engineering problems.
 
@@ -90,17 +90,27 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 <div align="center">
 
 <a href="https://linkedin.com/in/oshaneranga" target="_blank">
-<img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="90" alt="LinkedIn"/>
 </a>
 
 <br><br>
 
-<a href="mailto:oshanerangalearn@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+<strong>Connect with me on LinkedIn</strong>
+
+<br><br>
+
+<a href="https://linkedin.com/in/oshaneranga" target="_blank">
+<img src="https://img.shields.io/badge/Oshan%20Eranga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/OshanEranga" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+<br><br>
+
+<a href="mailto:oshanerangalearn@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OshanEranga">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -113,6 +123,6 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 ### *"Building intelligent systems that bridge hardware and software."*
 
-⭐ **If you like my work, feel free to connect on LinkedIn or explore my repositories below!**
+⭐ **Feel free to connect with me on LinkedIn and explore my projects!**
 
 </div>
