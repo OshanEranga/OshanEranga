@@ -1,119 +1,113 @@
-# Hi, I'm Oshan Eranga 👋
+<div align="center">
 
-**Electronic & Telecommunication Engineering Undergraduate**  
-University of Moratuwa, Sri Lanka
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,100:005BEA&height=220&section=header&text=Oshan%20Eranga&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-I am passionate about building intelligent systems by combining **Embedded Systems**, **Artificial Intelligence**, and **Electronics**. My interests span firmware development, PCB design, FPGA systems, computer vision, and IoT applications.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Electronic+%26+Telecommunication+Engineering+Student;Embedded+Systems+Developer;AI+%7C+Machine+Learning+%7C+Computer+Vision;PCB+Designer+%7C+FPGA+Developer;IoT+Enthusiast)](https://git.io/typing-svg)
 
----
-
-## 🎯 Seeking Internship Opportunities
-
-I am currently looking for internship opportunities in:
-
-- Embedded Systems
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- FPGA & Digital Design
-- PCB Design
-- IoT Systems
-- Electronics Engineering
+</div>
 
 ---
 
-## 💻 Technical Skills
+# 👋 Hi, I'm Oshan Eranga
 
-### Programming Languages
+🎓 **Electronic & Telecommunication Engineering Undergraduate** at the **University of Moratuwa**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square)
-
-### Embedded Systems
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi)
-
-### Hardware & PCB Design
-
-- Altium Designer
-- PCB Design
-- LTspice
-- Multisim
-- SOLIDWORKS
-
-### AI & Machine Learning
-
-- TensorFlow
-- OpenCV
-- NumPy
-- Scikit-learn
-- YOLOv8
-
-### Development Tools
-
-- Git
-- GitHub
-- STM32CubeIDE
-- Quartus Prime
-- ModelSim
-- React
-- Firebase
+I enjoy building intelligent systems that combine **hardware and software**, with interests in **Embedded Systems**, **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, **FPGA Design**, and **PCB Design**.
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 Interests
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OshanEranga&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshanEranga&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=OshanEranga&hide_border=true"/>
-
-</p>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- ⚡ Embedded Systems
+- 📡 Internet of Things (IoT)
+- 🔌 FPGA Design
+- 🖥️ PCB Design
+- 📈 Signal Processing
 
 ---
 
-## 📚 Areas of Interest
+# 🛠 Languages & Tools
 
-- Embedded Firmware Development
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- FPGA Design
-- PCB Design
-- Digital Electronics
-- Signal Processing
-- Internet of Things (IoT)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,angular,firebase,git,github,vscode,matlab&perline=7"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilog-FPGA-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLIDWORKS-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Statistics
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/oshaneranga">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OshanEranga&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshanEranga&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=OshanEranga&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌍 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/OshanEranga" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/oshaneranga" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:oshanerangalearn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-*"Building intelligent engineering solutions through Embedded Systems and Artificial Intelligence."*
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=OshanEranga&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OshanEranga&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Engineering • Embedded Systems • AI
+
+*"Building intelligent systems that bridge hardware and software."*
+
+</div>
