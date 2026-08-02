@@ -99,8 +99,8 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 <br><br>
 
-<a href="https://linkedin.com/in/oshaneranga" target="_blank">
-<img src="https://img.shields.io/badge/Oshan%20Eranga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/oshaneranga">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="70" alt="LinkedIn"/>
 </a>
 
 <br><br>
