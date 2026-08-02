@@ -99,21 +99,11 @@ I'm always interested in discussing <b>Embedded Systems</b>, <b>AI</b>, <b>Machi
 
 <br>
 
-<a href="https://linkedin.com/in/oshaneranga" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="90"/>
-</a>
-
-<h3>
-<a href="https://linkedin.com/in/oshaneranga">
-Oshan Eranga
-</a>
-</h3>
 
 <p>
 Connect with me professionally on LinkedIn
 </p>
 
-<br>
 
 <a href="https://linkedin.com/in/oshaneranga">
     <img src="assets/linkedin.png" width="70" alt="LinkedIn"/>
@@ -125,7 +115,6 @@ Connect with me professionally on LinkedIn
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
 
 <a href="https://github.com/OshanEranga">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
