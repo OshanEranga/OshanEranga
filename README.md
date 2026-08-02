@@ -11,13 +11,13 @@
 # 👋 Hi, I'm Oshan Eranga
 
 🎓 **Electronic & Telecommunication Engineering Undergraduate**  
-University of Moratuwa, Sri Lanka 🇱🇰
+📍 University of Moratuwa, Sri Lanka
 
 I'm passionate about designing intelligent systems that combine **electronics**, **embedded software**, and **artificial intelligence** to solve real-world engineering problems.
 
 ---
 
-## 🚀 Areas of Interest
+# 🚀 Areas of Interest
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -35,7 +35,7 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab&theme=dark"/>
 
 </div>
 
@@ -45,7 +45,7 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,firebase,git,github,vscode,postman&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,angular,firebase,git,github,vscode,postman,linux&theme=dark"/>
 
 </div>
 
@@ -56,19 +56,12 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 <div align="center">
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Verilog-FPGA-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/SOLIDWORKS-CC0000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/ModelSim-0088CC?style=for-the-badge"/>
 
 </div>
@@ -81,7 +74,6 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 - Computer Vision
 - TensorFlow
 - PyTorch
-- FPGA Design
 - Embedded AI
 - High-Speed Digital Design
 
@@ -89,24 +81,26 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 # 📌 Featured Repositories
 
-⭐ Check out my pinned repositories below to explore my latest engineering and AI projects.
+⭐ Explore my pinned repositories below to see my latest projects in **Embedded Systems**, **Artificial Intelligence**, **FPGA**, **PCB Design**, and **IoT**.
 
 ---
 
-# 🌍 Connect with Me
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/OshanEranga">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://linkedin.com/in/oshaneranga" target="_blank">
+<img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
 </a>
 
-<a href="https://linkedin.com/in/oshaneranga">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><br>
+
+<a href="mailto:oshanerangalearn@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
 </a>
 
-<a href="mailto:oshanerangalearn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/OshanEranga" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
 </a>
 
 </div>
@@ -115,16 +109,10 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=OshanEranga&style=for-the-badge&color=0e75b6)
+## 💡 Engineering • Embedded Systems • Artificial Intelligence
 
-</div>
+### *"Building intelligent systems that bridge hardware and software."*
 
----
-
-<div align="center">
-
-### 💡 *Engineering • Embedded Systems • Artificial Intelligence*
-
-**"Building intelligent systems that bridge hardware and software."**
+⭐ **If you like my work, feel free to connect on LinkedIn or explore my repositories below!**
 
 </div>
