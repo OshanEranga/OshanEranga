@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,100:005BEA&height=220&section=header&text=Oshan%20Eranga&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Electronic+%26+Telecommunication+Engineering+Student;Embedded+Systems+Developer;AI+%7C+Machine+Learning+%7C+Computer+Vision;PCB+Designer+%7C+FPGA+Developer;IoT+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Electronic+%26+Telecommunication+Engineering+Student;Embedded+Systems+Developer;AI+%7C+Machine+Learning+%7C+Computer+Vision;PCB+Designer+%7C+FPGA+Developer;IoT+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,13 @@
 
 # 👋 Hi, I'm Oshan Eranga
 
-🎓 **Electronic & Telecommunication Engineering Undergraduate** at the **University of Moratuwa**
+🎓 **Electronic & Telecommunication Engineering Undergraduate** at the **University of Moratuwa, Sri Lanka**.
 
-I enjoy building intelligent systems that combine **hardware and software**, with interests in **Embedded Systems**, **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, **FPGA Design**, and **PCB Design**.
+I'm passionate about designing intelligent systems that integrate **hardware and software**. My interests span **Artificial Intelligence**, **Embedded Systems**, **FPGA Design**, **IoT**, **PCB Design**, and **Computer Vision**.
 
 ---
 
-# 🚀 Interests
+## 🚀 Interests
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -26,23 +26,38 @@ I enjoy building intelligent systems that combine **hardware and software**, wit
 - 🔌 FPGA Design
 - 🖥️ PCB Design
 - 📈 Signal Processing
+- 🔋 Analog & Digital Circuit Design
 
 ---
 
-# 🛠 Languages & Tools
+## 🛠 Languages & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,angular,firebase,git,github,vscode,matlab&perline=7"/>
+### Programming Languages
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab&perline=8"/>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,angular,firebase,git,github,vscode,postman&perline=7"/>
+
+</div>
+
+---
+
+## ⚙️ Engineering Tools
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Verilog-FPGA-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SOLIDWORKS-CC0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ModelSim-0088CC?style=for-the-badge"/>
 
 </div>
 
@@ -68,7 +83,27 @@ I enjoy building intelligent systems that combine **hardware and software**, wit
 
 ---
 
-# 🌍 Connect with Me
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=OshanEranga&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OshanEranga&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌍 Connect with Me
 
 <div align="center">
 
@@ -90,23 +125,7 @@ I enjoy building intelligent systems that combine **hardware and software**, wit
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=OshanEranga&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OshanEranga&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Engineering • Embedded Systems • AI
+### 💡 *Engineering • Embedded Systems • Artificial Intelligence*
 
 *"Building intelligent systems that bridge hardware and software."*
 
