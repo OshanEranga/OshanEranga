@@ -101,7 +101,7 @@ I'm always interested in discussing <b>Embedded Systems</b>, <b>AI</b>, <b>Machi
 
 
 <p>
-Connect with me professionally on LinkedIn
+Connect with me on LinkedIn
 </p>
 
 
