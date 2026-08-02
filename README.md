@@ -85,14 +85,38 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 ---
 
+---
+
 # 🤝 Let's Connect
 
 <div align="center">
 
-<br><br>
+<h3>Let's build something amazing together!</h3>
+
+<p>
+I'm always interested in discussing <b>Embedded Systems</b>, <b>AI</b>, <b>Machine Learning</b>, <b>FPGA</b>, and <b>Electronics</b>.
+</p>
+
+<br>
+
+<a href="https://linkedin.com/in/oshaneranga" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="90"/>
+</a>
+
+<h3>
+<a href="https://linkedin.com/in/oshaneranga">
+Oshan Eranga
+</a>
+</h3>
+
+<p>
+Connect with me professionally on LinkedIn
+</p>
+
+<br>
 
 <a href="https://linkedin.com/in/oshaneranga">
-    <img src="assets/linkedin.png" width="70" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -101,6 +125,8 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/OshanEranga">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -108,7 +134,6 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 </div>
 
 ---
-
 <div align="center">
 
 ## 💡 Engineering • Embedded Systems • Artificial Intelligence
