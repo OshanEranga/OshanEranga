@@ -89,18 +89,10 @@ I'm passionate about designing intelligent systems that combine **electronics**,
 
 <div align="center">
 
-<a href="https://linkedin.com/in/oshaneranga" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="90" alt="LinkedIn"/>
-</a>
-
-<br><br>
-
-<strong>Connect with me on LinkedIn</strong>
-
 <br><br>
 
 <a href="https://linkedin.com/in/oshaneranga">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="70" alt="LinkedIn"/>
+    <img src="assets/linkedin.png" width="70" alt="LinkedIn"/>
 </a>
 
 <br><br>
